@@ -1,4 +1,3 @@
-import BlogSidebar from '@/components/sections/blogs/blogSidebar'
 import PageHeader from '@/components/sections/pageHeader'
 import React from 'react'
 import Link from 'next/link'
@@ -13,8 +12,8 @@ const CookiePolicy = () => {
             />
             <div className="cookie-section ptb-100">
                 <div className="container">
-                    <div className="row">
-                        <div className="col-lg-8">
+                    <div className="row justify-content-center">
+                        <div className="col-lg-10">
                             <div className="cookie-content">
                                 <div className="pera-list">
                                     <h2>What are Cookies?</h2>
@@ -60,9 +59,6 @@ const CookiePolicy = () => {
                                     <p>Please note that if you choose to disable cookies, some features of the Website may not function properly, and your user experience may be affected.</p>
                                 </div>
                             </div>
-                        </div>
-                        <div className="col-lg-4">
-                            <BlogSidebar/>
                         </div>
                     </div>
                 </div>

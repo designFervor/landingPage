@@ -1,4 +1,3 @@
-import BlogSidebar from '@/components/sections/blogs/blogSidebar'
 import InstagramGallery from '@/components/sections/instagramGallery'
 import PageHeader from '@/components/sections/pageHeader'
 import React from 'react'
@@ -13,8 +12,8 @@ const PrivacyPolicy = () => {
             />
             <div className="cookie-section ptb-100">
                 <div className="container">
-                    <div className="row">
-                        <div className="col-lg-8">
+                    <div className="row justify-content-center">
+                        <div className="col-lg-10">
                             <div className="cookie-content">
                                 <div className="pera-list">
                                     <h2>Intellectual Property</h2>
@@ -72,9 +71,6 @@ const PrivacyPolicy = () => {
                                     <p>We have no control over and assume no responsibility for the content, privacy policies, or practices of any third party sites or services.</p>
                                 </div>
                             </div>
-                        </div>
-                        <div className="col-lg-4">
-                            <BlogSidebar />
                         </div>
                     </div>
                 </div>
