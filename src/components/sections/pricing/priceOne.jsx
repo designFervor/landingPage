@@ -28,8 +28,8 @@ const PriceOne = ({ isVideoAnimationShow }) => {
                     </div>
                     <div className="col-xl-7 col-lg-12">
                         <div className="pricing-content">
-                            <h2>Our Pricing Plans</h2>
-                            <p>AI systems can analyze data, recognize patterns, make decisions, and even adapt and improve over time.</p>
+                            <h2>Design Packages That Fit Your Needs</h2>
+                            <p>Choose the perfect design package for your brand. All packages include our signature creative process and dedicated project management.</p>
                             <div className="pricing-table">
                                 <div className="row">
                                     {pricingData.slice(0, 2).map((plan, index) => (

@@ -28,16 +28,16 @@ const AboutOne = ({ className, inVideoBg }) => {
                     <div className="col-lg-6 col-md-6">
                         <div className="about-content" data-animation="fade-up" data-delay={0.2}>
                             <div className="sub-title-2">
-                                <p>What Aithm Do</p>
+                                <p>Who We Are</p>
                             </div>
-                            <h2>Create your own AI business easily.</h2>
-                            <p> AI systems can analyze data, recognize patterns, make decisions, and even adapt and improve over time. Whether it's speech recognition, image processing, or problem solving.</p>
+                            <h2>Designing brands that inspire and endure.</h2>
+                            <p>We're a team of passionate designers, strategists, and creative thinkers dedicated to helping brands tell their unique stories through compelling visual design and strategic thinking.</p>
                             <ul>
-                                <li><i className="bx bx-check" /> Natural Language Processing</li>
-                                <li><i className="bx bx-check" />AI refers to the simulation of human</li>
-                                <li><i className="bx bx-check" />Generating art, music, and literature.</li>
+                                <li><i className="bx bx-check" /> 10+ Years of Design Excellence</li>
+                                <li><i className="bx bx-check" />Award-Winning Creative Team</li>
+                                <li><i className="bx bx-check" />500+ Successful Brand Transformations</li>
                             </ul>
-                            <Link className="default-btn" href="/about"> <span>About Us</span> <i className="bx bx-chevron-right" /></Link>
+                            <Link className="default-btn" href="/about"> <span>Learn More About Us</span> <i className="bx bx-chevron-right" /></Link>
                         </div>
                     </div>
                 </div>

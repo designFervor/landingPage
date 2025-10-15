@@ -115,7 +115,7 @@ const ResponsiveNavbar = () => {
         <div className="responsive-navbar offcanvas offcanvas-end" data-bs-backdrop="static" tabIndex="-1" id="navbarOffcanvas">
             <div className="offcanvas-header">
                 <Link className="logo d-inline-block" href="/">
-                    Aithm
+                    <span style={{fontWeight: '700', fontSize: '24px'}}>Design Fever</span>
                 </Link>
                 <button type="button" className="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>

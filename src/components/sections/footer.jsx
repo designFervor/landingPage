@@ -69,7 +69,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-xl-4 col-lg-5">
               <div className="cpr-left">
-                <p>Copyright© 2025 Aithm. All rights reserved.</p>
+                <p>Copyright© 2025 Design Fever. All rights reserved.</p>
               </div>
             </div>
             <div className="col-xl-8 col-lg-7">

@@ -49,7 +49,7 @@ const Header = () => {
                 <div className="container">
                     <nav className="navbar navbar-expand-lg">
                         <Link className="navbar-brand" href="/">
-                            DesignCraft
+                            <span style={{fontWeight: '700', fontSize: '24px'}}>Design Fever</span>
                         </Link>
                         <div className="other-all-option">
                             <a className="navbar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
